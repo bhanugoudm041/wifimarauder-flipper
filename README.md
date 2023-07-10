@@ -24,7 +24,7 @@ Now wifi marauder flashed to ESP32
 
 # Final connections
 connect all wires as mentioned in the circuit diagram
-![bhanugoudm041](https://github.com/bhanugoudm041/wifimarauder-flipper/assets/92798414/1076b6b8-bbcb-4ed8-ab15-ca0870559e4a)
+![flipperzerp circuit diagram](https://github.com/bhanugoudm041/wifimarauder-flipper/assets/92798414/828be129-d430-40fc-b418-044b91c9bff6)
 
 # Usage
 Now just connect your flipperzero to your qflipper app or turn on your flipperzero
